@@ -9,7 +9,10 @@
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(45deg, #22477b 0%, #274C80 99%, #3E68A2 100%);
+    background-image: url("imagens/bg-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .info-center {
