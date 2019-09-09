@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(45deg, #22477b 0%, #274C80 99%, #3E68A2 100%);
+}
+
+.info-center {
+    margin: 0 auto;
+}
+
+.info {
+    color: white;
+}
+
+.info .left {
+    padding: 10px;
+    float: left;
+    margin: 20px;
+    border-right: 1px solid white;
+}
+
+.info .right {
+    padding: 10px;
+    float: right;
+}
+
+a {
+    color: white;
+}
